@@ -307,25 +307,25 @@
     .header img {
         width: 170px;
         height: 170px;
-        left: 20px;
+        left: 10px;
         top: 70px;
         margin-bottom: 10px;
     }
 
     .header-text {
         width: 100%;
-        margin-left: 80px;
+        margin-left: 60px;
         text-align: center;
-        margin-top:55px;
+        margin-top:50px;
     }
 
     .header-text h1 {
-        font-size: 25px;
+        font-size: 22px;
         margin-left: 60px;
     }
 
     .header-text p {
-        font-size: 16px;
+        font-size: 14px;
         margin-left: 80px;
     }
     .content{
